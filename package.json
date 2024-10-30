@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "deploy:full": "git add . && git commit -m uibuild && git push"
+    "deploy:full": "git add . && git commit -m backendbuild && git push"
   },
   "dependencies": {
     "cors": "^2.8.5",
